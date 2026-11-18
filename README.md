@@ -1,6 +1,6 @@
 # signatur-bilder
 
-Logos und Icons für die E-Mail-Signaturen von kandidat.io und freshtalents. GitHub Pages veröffentlicht dieses Repo unter `https://signatur.kandidat.io/`.
+Logos und Icons für die E-Mail-Signaturen von kandidat.io und freshtalents. GitHub Pages veröffentlicht dieses Repo unter `https://signatur.freshtalents.de/`.
 
 | Datei | Verwendung |
 |---|---|
